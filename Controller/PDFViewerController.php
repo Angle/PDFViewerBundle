@@ -13,6 +13,6 @@ class PDFViewerController extends AbstractController
      */
     public function view(): Response
     {
-        return $this->render('@AnglePDFViewerBundle/view.html.twig');
+        return $this->render('@AnglePDFViewer/view.html.twig');
     }
 }

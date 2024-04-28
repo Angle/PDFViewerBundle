@@ -1,0 +1,4 @@
+# Angle PDF Viewer Bundle
+angle_pdf_viewer_view:
+  path: /_pdf
+  controller: Angle\PDFViewerBundle\Controller\PDFViewerController::view
